@@ -87,7 +87,7 @@ function sortTableByColumn(index, ascending) {
   const table = document.getElementById("studentTable");
   const rows = Array.from(table.rows).slice(1);
 
-  rows.sort((a, b) => {
+  rows.sort((a, b)  => {
     const aText = a.cells[index].textContent.trim();
     const bText = b.cells[index].textContent.trim();
 
