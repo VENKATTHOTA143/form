@@ -1,0 +1,133 @@
+[
+    {
+        "hallNo": "101",
+        "name": "Aarav Mehta",
+        "fatherName": "Rajesh Mehta",
+        "department": "Computer Science",
+        "email": "aarav.mehta@example.com",
+        "address": "123 MG Road, Mumbai, Maharashtra",
+        "phone": "9876543210"
+    },
+    {
+        "hallNo": "104",
+        "name": "Diya Gupta",
+        "fatherName": "Ramesh Gupta",
+        "department": "Electrical Engineering",
+        "email": "diya.gupta@example.com",
+        "address": "321 Main Street, Hyderabad, Telangana",
+        "phone": "6543210987"
+    },
+    {
+        "hallNo": "107",
+        "name": "Vivaan Sharma",
+        "fatherName": "Sunil Sharma",
+        "department": "Mechanical Engineering",
+        "email": "vivaan.sharma@example.com",
+        "address": "456 Church Street, Bangalore, Karnataka",
+        "phone": "8765432109"
+    },
+    {
+   
+        "hallNo": "102",
+        "name": "Vivaan Sharma",
+        "fatherName": "Sunil Sharma",
+        "department": "Mechanical Engineering",
+        "email": "vivaan.sharma@example.com",
+        "address": "456 Church Street, Bangalore, Karnataka",
+        "phone": "8765432109"
+    },
+    {
+        "hallNo": "110",
+        "name": "Ananya Rao",
+        "fatherName": "Krishna Rao",
+        "department": "Information Technology",
+        "email": "ananya.rao@example.com",
+        "address": "987 Brigade Road, Chennai, Tamil Nadu",
+        "phone": "5432109876"
+    },
+
+    {
+        "hallNo": "106",
+        "name": "Aarav Mehta",
+        "fatherName": "Rajesh Mehta",
+        "department": "Computer Science",
+        "email": "aarav.mehta@example.com",
+        "address": "123 MG Road, Mumbai, Maharashtra",
+        "phone": "9876543210"
+    },
+    {
+     
+        "hallNo": "103",
+        "name": "Aditya Singh",
+        "fatherName": "Raj Singh",
+        "department": "Civil Engineering",
+        "email": "aditya.singh@example.com",
+        "address": "789 Park Avenue, Delhi",
+        "phone": "7654321098"
+    },
+    {
+        "hallNo": "108",
+        "name": "Aditya Singh",
+        "fatherName": "Raj Singh",
+        "department": "Civil Engineering",
+        "email": "aditya.singh@example.com",
+        "address": "789 Park Avenue, Delhi",
+        "phone": "7654321098"
+    },
+    {
+        "hallNo": "109",
+        "name": "Diya Gupta",
+        "fatherName": "Ramesh Gupta",
+        "department": "Electrical Engineering",
+        "email": "diya.gupta@example.com",
+        "address": "321 Main Street, Hyderabad, Telangana",
+        "phone": "6543210987"
+    },
+    {
+     
+        "hallNo": "105",
+        "name": "Ananya Rao",
+        "fatherName": "Krishna Rao",
+        "department": "Information Technology",
+        "email": "ananya.rao@example.com",
+        "address": "987 Brigade Road, Chennai, Tamil Nadu",
+        "phone": "5432109876"
+    },
+    {
+        "hallNo": "113",
+        "name": "Diya Gupta",
+        "fatherName": "Ramesh Gupta",
+        "department": "Electrical Engineering",
+        "email": "diya.gupta@example.com",
+        "address": "321 Main Street, Hyderabad, Telangana",
+        "phone": "6543210987"
+    },
+    {
+        "hallNo": "112",
+        "name": "Aditya Singh",
+        "fatherName": "Raj Singh",
+        "department": "Civil Engineering",
+        "email": "aditya.singh@example.com",
+        "address": "789 Park Avenue, Delhi",
+        "phone": "7654321098"
+    },
+    {
+  
+        "hallNo": "111",
+        "name": "Vivaan Sharma",
+        "fatherName": "Sunil Sharma",
+        "department": "Mechanical Engineering",
+        "email": "vivaan.sharma@example.com",
+        "address": "456 Church Street, Bangalore, Karnataka",
+        "phone": "8765432109"
+    },
+    {
+        "hallNo": "114",
+        "name": "Ananya Rao",
+        "fatherName": "Krishna Rao",
+        "department": "Information Technology",
+        "email": "ananya.rao@example.com",
+        "address": "987 Brigade Road, Chennai, Tamil Nadu",
+        "phone": "5432109876"
+    }
+]
